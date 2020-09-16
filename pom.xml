@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>Everis-Demo--Spring</artifactId>
+    <artifactId>Everis-Demo-Spring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Everis-Demo--Spring</name>
+    <name>Everis-Demo-Spring</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
